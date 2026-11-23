@@ -1,0 +1,25 @@
+{
+  "name": "pocket-school-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "As1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahanafchowdhury1509-creator/Pocket-School-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ahanafchowdhury1509-creator/Pocket-School-Backend/issues"
+  },
+  "homepage": "https://github.com/ahanafchowdhury1509-creator/Pocket-School-Backend#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "joi": "^18.3.2"
+  }
+}
